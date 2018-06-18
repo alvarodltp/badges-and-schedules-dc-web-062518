@@ -13,5 +13,6 @@ end
 def asign_rooms(array)
   room_assignment = []
   counter = 1 
-  
+  array.each do |name|
+    
 end
